@@ -22,6 +22,7 @@ requires:
   Data::Clean::JSON: 0
   Data::Validate::URI: 0
   DateTime::Format::DateParse: 0
+  DateTime::Format::Strptime: 0
   Media::Type::Simple: 0
   Moose: 0
   Net::PMP: 0.001
@@ -36,4 +37,4 @@ resources:
   homepage: https://github.com/APMG/net-pmp-profile-perl
   license: http://opensource.org/licenses/mit-license.php
   repository: http://github.com/APMG/net-pmp-profile-perl
-version: 0.001
+version: 0.002
